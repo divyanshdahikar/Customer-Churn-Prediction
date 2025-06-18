@@ -20,19 +20,21 @@ Here are some visual insights discovered from the data:
 - 📉 **Fiber Optic users churn the most** (high cost).
 - 🟩 Customers with **no internet service churn the least**.
 
-![Internet Service Churn](#)
+![Screenshot 2025-06-18 185042](https://github.com/user-attachments/assets/94a21def-0613-4fff-a050-003e65a16429)
+
 
 ### Contract Type vs Churn
 - ⛔ **Month-to-Month** contracts show the **highest churn** — easier to leave.
 - ✅ **Two-Year contracts** show **lowest churn**.
 
-![Contract Churn]![Screenshot 2025-06-18 185042](https://github.com/user-attachments/assets/c03b2d66-0034-4a76-a0d3-c993ad7d84f5)
+![Screenshot 2025-06-18 185405](https://github.com/user-attachments/assets/6f6b264e-9349-416e-89a5-c4265361f10d)
 
 
 ### Payment Method vs Churn
 - 📉 **Electronic check** users churn more often than others.
 
-![Payment Method Churn](#)
+![Screenshot 2025-06-18 185458](https://github.com/user-attachments/assets/6842ce6a-367d-43df-9c48-a26b90c0093e)
+
 
 ---
 
