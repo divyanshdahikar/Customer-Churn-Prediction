@@ -80,16 +80,6 @@ Used **Sequential Forward Selection (SFS)** to choose top 6 features:
 
 ---
 
-## 📷 EDA Visuals (Drop Here)
-
-> You can drag & drop your best EDA visuals below this section:
-
-- ![EDA Screenshot 1](#)
-- ![EDA Screenshot 2](#)
-- ![EDA Screenshot 3](#)
-
----
-
 ## ✅ Conclusion
 
 - **Contract type**, **tenure**, **internet service**, and **payment method** significantly influence customer churn.
