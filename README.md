@@ -26,7 +26,7 @@ Here are some visual insights discovered from the data:
 - ⛔ **Month-to-Month** contracts show the **highest churn** — easier to leave.
 - ✅ **Two-Year contracts** show **lowest churn**.
 
-![Contract Churn](![Screenshot 2025-06-18 185042](https://github.com/user-attachments/assets/c03b2d66-0034-4a76-a0d3-c993ad7d84f5))
+![Contract Churn]![Screenshot 2025-06-18 185042](https://github.com/user-attachments/assets/c03b2d66-0034-4a76-a0d3-c993ad7d84f5)
 
 
 ### Payment Method vs Churn
